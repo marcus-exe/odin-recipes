@@ -1,0 +1,21 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+    color:black;
+    background-color: antiquewhite;
+}
+h1{
+    font-size: 70px;
+    font-weight: 700;
+}
+a{
+    font-size: 30px;
+    font-weight: 400;
+}
+h3{
+    font-size: 50px;
+    font-weight: 500;
+}  
+p, li{
+    font-size: 20px;
+    font-weight: 300;
+}
